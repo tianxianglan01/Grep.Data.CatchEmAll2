@@ -17,7 +17,7 @@ Save the each pokemon as a separate `.txt` file in the `captured` directory.
 
 
 - **b)** Who are the three biggest pokemon? (number of lines)
-Show you grep that you used to get to the result.
+Show the grep that you used to get to the result.
 
 
 
