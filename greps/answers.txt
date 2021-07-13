@@ -1,6 +1,8 @@
 # Part 1
 ### a)
 
+grep "beed" /Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1
+
 
 
 

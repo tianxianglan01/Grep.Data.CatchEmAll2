@@ -1,0 +1,40 @@
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                     ,--""+--.---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                    /     j   /`.---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                   |     /   |   `.---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                   |   ,'    '     \---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                   j,-'     '`..    \---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                  +      _ /    `._/ \---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                  |     / '-.     |   .---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                  |    /     |   /    |---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                  |   /     j   j     |---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                  |  j      |   |     |._---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                  | .'     7    |     |  `.---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed  ___      _.._   | j      |    +     '    `.---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed |.---=-.,'+-. `. |/       F     L  ,'    ,'`.---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed ||,==--'|_' |  j  \      /      |,'   ,`'    L---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed 'Y'   | |  '/ ',.-.\    j     ,,^  _,' \     |---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed`.||   |  `.'  '    `.   / _,-'   `'     L   F---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed  ||   `     .  ,-.   `,--'              |   |---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed  `'    `.  /_,' ,'     `--------------""""'Y---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed         _:"'_.-'       /_>:-.__           /---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed      `-".`"'__,`-.,-._/      `.""`------"'---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed      `.| `"'      | | _.--'""'--\---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed       || /        | '"  ___,.._  \---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed      _|||__      / /,.-'       `- .---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed    ,'   `. .    /,'/'  _.,-"""--._F---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed    7     | |  .',L'|_-'           |---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed    +     | | / / ',"'  ,.-'""'`-._|---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed     L    ' |. /  .-.`"'           |---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed     |   j j   \  `-.'\           j---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed     +   | | \  `.   ` `.  _.... ,---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed      L  | |  \   .   `  \"     /---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed      | ,' |   L  ,'    \ `    .---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed      | || |   '  |      L `   |---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed      `./|j     `. .     `. \ j---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed       |  '       ` .     | '\`---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                   \ '.   | \---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                    | |  /,-'---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                    j l  "---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                  _/_,'---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed                 ',' zcw---------------rill
+/Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1:beed---------------rill
