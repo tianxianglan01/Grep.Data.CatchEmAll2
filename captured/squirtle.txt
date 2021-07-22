@@ -1,0 +1,34 @@
+forest/filescan_00.4:squi               _,........__---------------rtle
+forest/filescan_00.4:squi            ,-'            "`-.---------------rtle
+forest/filescan_00.4:squi          ,'                   `-.---------------rtle
+forest/filescan_00.4:squi        ,'                        \---------------rtle
+forest/filescan_00.4:squi      ,'                           .---------------rtle
+forest/filescan_00.4:squi      .'\               ,"".       `---------------rtle
+forest/filescan_00.4:squi     ._.'|             / |  `       \---------------rtle
+forest/filescan_00.4:squi     |   |            `-.'  ||       `.---------------rtle
+forest/filescan_00.4:squi     |   |            '-._,'||       | \---------------rtle
+forest/filescan_00.4:squi     .`.,'             `..,'.'       , |`-.---------------rtle
+forest/filescan_00.4:squi     l                       .'`.  _/  |   `.---------------rtle
+forest/filescan_00.4:squi     `-.._'-   ,          _ _'   -" \  .     `---------------rtle
+forest/filescan_00.4:squi`."""""'-.`-...,---------','         `. `....__.---------------rtle
+forest/filescan_00.4:squi.'        `"-..___      __,'\          \  \     \---------------rtle
+forest/filescan_00.4:squi\_ .          |   `""""'    `.           . \     \---------------rtle
+forest/filescan_00.4:squi  `.          |              `.          |  .     L---------------rtle
+forest/filescan_00.4:squi    `.        |`--...________.'.        j   |     |---------------rtle
+forest/filescan_00.4:squi      `._    .'      |          `.     .|   ,     |---------------rtle
+forest/filescan_00.4:squi         `--,\       .            `7""' |  ,      |---------------rtle
+forest/filescan_00.4:squi            ` `      `            /     |  |      |    _,-'"""`-.---------------rtle
+forest/filescan_00.4:squi             \ `.     .          /      |  '      |  ,'          `.---------------rtle
+forest/filescan_00.4:squi              \  v.__  .        '       .   \    /| /              \---------------rtle
+forest/filescan_00.4:squi               \/    `""\"""""""`.       \   \  /.''                |---------------rtle
+forest/filescan_00.4:squi                `        .        `._ ___,j.  `/ .-       ,---.     |---------------rtle
+forest/filescan_00.4:squi                ,`-.      \         ."     `.  |/        j     `    |---------------rtle
+forest/filescan_00.4:squi               /    `.     \       /         \ /         |     /    j---------------rtle
+forest/filescan_00.4:squi              |       `-.   7-.._ .          |"          '         /---------------rtle
+forest/filescan_00.4:squi              |          `./_    `|          |            .     _,'---------------rtle
+forest/filescan_00.4:squi              `.           / `----|          |-............`---'---------------rtle
+forest/filescan_00.4:squi                \          \      |          |---------------rtle
+forest/filescan_00.4:squi               ,'           )     `.         |---------------rtle
+forest/filescan_00.4:squi                7____,,..--'      /          |---------------rtle
+forest/filescan_00.4:squi                                  `---.__,--.'zcw---------------rtle
+forest/filescan_00.4:squi---------------rtle

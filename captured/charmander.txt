@@ -1,0 +1,36 @@
+forest/filescan_00.2:char              _.--""`-..---------------mander
+forest/filescan_00.2:char            ,'          `.---------------mander
+forest/filescan_00.2:char          ,'          __  `.---------------mander
+forest/filescan_00.2:char         /|          " __   \---------------mander
+forest/filescan_00.2:char        , |           / |.   .---------------mander
+forest/filescan_00.2:char        |,'          !_.'|   |---------------mander
+forest/filescan_00.2:char      ,'             '   |   |---------------mander
+forest/filescan_00.2:char     /              |`--'|   |---------------mander
+forest/filescan_00.2:char    |                `---'   |---------------mander
+forest/filescan_00.2:char     .   ,                   |                       ,".---------------mander
+forest/filescan_00.2:char      ._     '           _'  |                    , ' \ `---------------mander
+forest/filescan_00.2:char  `.. `.`-...___,...---""    |       __,.        ,`"   L,|---------------mander
+forest/filescan_00.2:char  |, `- .`._        _,-,.'   .  __.-'-. /        .   ,    \---------------mander
+forest/filescan_00.2:char-:..     `. `-..--_.,.<       `"      / `.        `-/ |   .---------------mander
+forest/filescan_00.2:char  `,         """"'     `.              ,'         |   |  ',,---------------mander
+forest/filescan_00.2:char    `.      '            '            /          '    |'. |/---------------mander
+forest/filescan_00.2:char      `.   |              \       _,-'           |       ''---------------mander
+forest/filescan_00.2:char        `._'               \   '"\                .      |---------------mander
+forest/filescan_00.2:char           |                '     \                `._  ,'---------------mander
+forest/filescan_00.2:char           |                 '     \                 .'|---------------mander
+forest/filescan_00.2:char           |                 .      \                | |---------------mander
+forest/filescan_00.2:char           |                 |       L              ,' |---------------mander
+forest/filescan_00.2:char           `                 |       |             /   '---------------mander
+forest/filescan_00.2:char            \                |       |           ,'   /---------------mander
+forest/filescan_00.2:char          ,' \               |  _.._ ,-..___,..-'    ,'---------------mander
+forest/filescan_00.2:char         /     .             .      `!             ,j'---------------mander
+forest/filescan_00.2:char        /       `.          /        .           .'/---------------mander
+forest/filescan_00.2:char       .          `.       /         |        _.'.'---------------mander
+forest/filescan_00.2:char        `.          7`'---'          |------"'_.'---------------mander
+forest/filescan_00.2:char       _,.`,_     _'                ,''-----"'---------------mander
+forest/filescan_00.2:char   _,-_    '       `.     .'      ,\---------------mander
+forest/filescan_00.2:char   -" /`.         _,'     | _  _  _.|---------------mander
+forest/filescan_00.2:char    ""--'---"""""'        `' '! |! /---------------mander
+forest/filescan_00.2:char                            `" " -' zcw---------------mander
+forest/filescan_00.2:char---------------mander
+forest/filescan_00.2:char---------------mander

@@ -1,0 +1,33 @@
+forest/filescan_00.3:ivys                               ,'"`.,./.---------------aur
+forest/filescan_00.3:ivys                             ,'        Y',"..---------------aur
+forest/filescan_00.3:ivys                           ,'           \  | \---------------aur
+forest/filescan_00.3:ivys                          /              . |  `---------------aur
+forest/filescan_00.3:ivys                         /               | |   \---------------aur
+forest/filescan_00.3:ivys            __          .                | |    .---------------aur
+forest/filescan_00.3:ivys       _   \  `. ---.   |                | j    |---------------aur
+forest/filescan_00.3:ivys      / `-._\   `Y   \  |                |.     |---------------aur
+forest/filescan_00.3:ivys     _`.    ``    \   \ |..              '      |,-'""7,....---------------aur
+forest/filescan_00.3:ivys     l     '-.     . , `|  | , |`. , ,  /,     ,'    '/   ,'_,.-.---------------aur
+forest/filescan_00.3:ivys     `-..     `-.  : :     |/ `   ' "\,' | _  /          '-'    /___---------------aur
+forest/filescan_00.3:ivys      \""' __.,.-`.: :        /   /._    l'.,'---------------aur
+forest/filescan_00.3:ivys       `--,   _.-' `".           /__ `'-.' '         .---------------aur
+forest/filescan_00.3:ivys       ,---..._,.--"""""""--.__..----,-.'   .  /    .'   ,.-----------------aur
+forest/filescan_00.3:ivys       |                          ,':| /    | /     ;.,-'--      ,.----------------aur
+forest/filescan_00.3:ivys       |     .---.              .'  :|'     |/ ,.-='"-.`"`' _   -.'---------------aur
+forest/filescan_00.3:ivys       /    \    /               `. :|--.  _L,"---.._        "----'---------------aur
+forest/filescan_00.3:ivys     ,' `.   \ ,'           _,     `''   ``.-'       `-  -..___,'---------------aur
+forest/filescan_00.3:ivys    . ,.  .   `   __     .-'  _.-           `.     .__    \---------------aur
+forest/filescan_00.3:ivys    |. |`        "  ;   !   ,.  |             `.    `.`'---'---------------aur
+forest/filescan_00.3:ivys    ,| |C\       ` /    | ,' |(]|            -. |-..--`---------------aur
+forest/filescan_00.3:ivys   /  "'--'       '      /___|__]        `.  `- |`.---------------aur
+forest/filescan_00.3:ivys  .       ,'                   ,   /       .    `. \---------------aur
+forest/filescan_00.3:ivys    \                      .,-'  ,'         .     `-.---------------aur
+forest/filescan_00.3:ivys     x---..`.  -'  __..--'"/"""""  ,-.      |   |   |---------------aur
+forest/filescan_00.3:ivys    / \--._'-.,.--'     _`-    _. ' /       |     -.|---------------aur
+forest/filescan_00.3:ivys   ,   .   `-..__ ...--'  _,.-' | `   ,.-.  ;   /  '|---------------aur
+forest/filescan_00.3:ivys  .  _,'         '"-----""      |    `   | /  ,'    ;---------------aur
+forest/filescan_00.3:ivys  |-'  .-.    `._               |     `._// ,'     /---------------aur
+forest/filescan_00.3:ivys _|    `-'   _,' "`--.._________|        `,'    _ /.---------------aur
+forest/filescan_00.3:ivys//\   ,-._.'"/\__,.   _,"     /_\__/`. /'.-.'.-/_,`-' zcw---------------aur
+forest/filescan_00.3:ivys`-"`"' v'    `"  `-`-"              `-'`-`  `'---------------aur
+forest/filescan_00.3:ivys---------------aur

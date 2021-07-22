@@ -1,25 +1,45 @@
 # Part 1
 ### a)
 
-grep "beed" /Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1
+grep "beed" /Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1 * > /Users/sean/labs/SQL & Grep Labs/Grep.Data.CatchEmAll2/captured/beedrill.txt
+grep "bulb" /Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1 * > /Users/sean/labs/SQL & Grep Labs/Grep.Data.CatchEmAll2/captured/bulbasaur.txt
+grep "butt" /Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1 * > /Users/sean/labs/SQL & Grep Labs/Grep.Data.CatchEmAll2/captured/butterfree.txt
+grep "blas" /Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1 * > /Users/sean/labs/SQL & Grep Labs/Grep.Data.CatchEmAll2/captured/blastoise.txt
 
+grep "\bchar.*izard$" forest/file* > captured/charizard.txt
+grep "\bchar.*mander$" forest/file* > captured/charmander.txt
+grep "\bchar.*meleon$" forest/file* > captured/charmeleon.txt
 
+grep "\ivys.*aur$" forest/files* > captured/ivysaur.txt
+grep "\jigg.*lypuff$" forest/file* > captured/jigglypuff.txt
+grep "\meow.*th$" forest/file* > captured/meowth.txt
+grep "\pika.*chu$" forest/file* > captured/pikachu.txt
 
-
-### b)
-
-
+grep "\bpsyd.*uck$" forest/file* > captured/psyduck.txt
+grep "\bsqui.*rtle$" forest/file* > captured/squirtle.txt
+grep "\bvenu.*saur$" forest/file* > captured/venusaur.txt
+grep "\bwart.*ortle$" forest/file* > captured/wartortle.txt
 
 ### c)
 
+beedrill: filescan_00.1
+bulbasaur: filescan_00.1
+butterfree: filescan_00.1
+blastoise: filescan_00.1
 
+charizard: filescan_00.2
+charmander: filescan_00.2
+charmeleon: filescan_00.2
 
+ivysaur: filescan_00.3
+jigglypuff: filescan_00.3
+meowth: filescan_00.3
+pikachu: filescan_00.3
 
-
-
-
-
-
+psyduck: filescan_00.4
+squirtle: filescan_00.4
+venusaur: filescan_00.4
+wartortle: filescan_00.4
 
 
 
@@ -27,14 +47,26 @@ grep "beed" /Users/sean/labs/Grep.Data.CatchEmAll2/forest/filescan_00.1
 # Part 2
 ### a)
 
+ls -dq *.txt* | wc -l
 
+counts number of pokemon in my captured folder
 
 
 
 
 ### b)
 
+wc -l *.txt
 
+The wc (word count) command is used to find out number of newline count, word count, byte and characters count in a files specified by the file arguments.
+
+wc -l: number of lines in a file, and prints the file name itself
+
+*.txt looks for 0 or more files with the .txt 
+
+- charizard
+- pikachu
+- butterfree
 
 
 
